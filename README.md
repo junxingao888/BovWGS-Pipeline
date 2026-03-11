@@ -8,7 +8,7 @@ Raw sequencing data are available in the ENA under Project accession PRJEB90914.
 
 ## Please cite us
 If you use this pipeline or data, please cite:
+
+Njabulo Dlamini, Gao J., et al. Whole-genome sequences of 240 indigenous African cattle from Egypt, Uganda, and South Africa. Scientific Data, under review.
+
 If you have any questions about the process and article, please feel free to contact me (junxin.gao@wur.nl).
-Njabulo Dlamini, Gao J., et al.
-Whole-genome sequences of 240 indigenous African cattle from Egypt, Uganda, and South Africa.
-Scientific Data, under review.
