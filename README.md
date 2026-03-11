@@ -12,3 +12,7 @@ If you use this pipeline or data, please cite:
 Njabulo Dlamini, Gao J., et al. Whole-genome sequences of 240 indigenous African cattle from Egypt, Uganda, and South Africa. Scientific Data, under review.
 
 If you have any questions about the process, article, or data, please feel free to contact me (junxin.gao@wur.nl).
+
+## env
+conda env create -f environment.yml
+conda activate bovwgs_pipeline
