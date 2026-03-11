@@ -15,4 +15,5 @@ If you have any questions about the process, article, or data, please feel free 
 
 ## env
 conda env create -f environment.yml
+
 conda activate bovwgs_pipeline
